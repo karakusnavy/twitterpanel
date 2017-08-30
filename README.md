@@ -3,6 +3,9 @@
 *Turkish
 Evet geliştirilmiş otomatik twitter panelimden bahsetmek istiyorum. Panelde hangi aralıklar ile hangi gönderiye otomatik işlem yaptırmak istiyorsanız seçiyorsunuz. Daha sonra program otomatikmen girip herşeyi otomatikmen gerçekleştiriyor.
 
+* Bana mail adresimden ulaşabilirsiniz: #karakusnavy@gmail.com
+
+<center>
 <p style="text-align: center;"><img src="https://i.hizliresim.com/vpOYEr.png" alt="" /></p>
 
 <p style="text-align: center;"><img src="https://i.hizliresim.com/1g8jy5.png" alt=""/></p>
